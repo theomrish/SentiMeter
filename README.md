@@ -1,5 +1,5 @@
 # SentiMeter
-A market narrative interpreter.
+A live risk-on / risk-off meter for market days.
 
 ## What it does
 
