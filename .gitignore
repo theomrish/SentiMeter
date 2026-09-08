@@ -1,0 +1,13 @@
+# Secrets — never commit these
+.env
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Local database
+*.db
+
+# OS and editor noise
+Thumbs.db
+.vscode/
