@@ -1,5 +1,5 @@
 # SentiMeter
-A market narrative interpreter.
+Reads the market's mood from data and news.
 
 ## What it does
 
