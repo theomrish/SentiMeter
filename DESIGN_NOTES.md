@@ -10,6 +10,10 @@
 
 - Those are 2 metrics with 2 different meanings.
 
+- At this point we measure first and interpret later. this is the layer that computes facts without judgement, that way when our interpretion changes the measures dont have to.
+
+- We rewrite the opinion but keep the arithmetic
+
 ## v1 scope (Week 1)
 
 `surprise.py` computes three facts about a scheduled economic release
