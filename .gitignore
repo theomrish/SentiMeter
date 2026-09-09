@@ -11,3 +11,6 @@ __pycache__/
 # OS and editor noise
 Thumbs.db
 .vscode/
+
+# Weekly course summaries - personal notes, not part of the project
+Week*_Summary.pdf
