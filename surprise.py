@@ -4,7 +4,6 @@
 from dataclasses import dataclass
 
 # -------------- definitions --------------
-
 @dataclass
 class ReleaseFacts:
     level: float
